@@ -1,7 +1,7 @@
 {
   "name": "bitclimb-parity",
   "description": "The Parity wallet Promise-based API library for interfacing with Ethereum over RPC on Nodejs environment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "author": "Uni Sayo <unibtc@gmail.com>",
   "license": "UNLICENSED",
