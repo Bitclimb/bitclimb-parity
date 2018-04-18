@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "author": "Uni Sayo <unibtc@gmail.com>",
-  "private": true,
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
