@@ -1,0 +1,40 @@
+{
+  "name": "bitclimb-parity",
+  "description": "The Parity wallet Promise-based API library for interfacing with Ethereum over RPC on Nodejs environment",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "Uni Sayo <unibtc@gmail.com>",
+  "private": true,
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/Bitclimb/bitclimb-parity.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "API",
+    "RPC",
+    "Parity",
+    "Promise"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@parity/abi": "2.1.x",
+    "@parity/jsonrpc": "2.1.x",
+    "@parity/wordlist": "1.1.x",
+    "bignumber.js": "3.0.1",
+    "blockies": "0.0.2",
+    "es6-error": "4.0.2",
+    "eventemitter3": "^2.0.2",
+    "js-sha3": "0.5.5",
+    "lodash": "^4.17.4",
+    "store": "^2.0.12",
+    "websocket": "^1.0.25"
+  }
+}
